@@ -5,10 +5,11 @@
 
 ### Links to:
   + GH repo: [link]*https://github.com/CreativeNana/mongoose
-  + GH page: [link]*https://creativenana.github.io/mongoose/.*
 
 ### Comments: 
-  + MongoDB
+  + Connecting to MongoDB
    
 ### Attributions: 
-  + acidtone: Sample code
+  + acidtone:
+    + [hello-mongoose]*https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/hello-mongoose*
+    + [kitten-schema]*https://github.com/sait-wbdv/sample-code/tree/master/backend/mongoose/kitten-schema*
